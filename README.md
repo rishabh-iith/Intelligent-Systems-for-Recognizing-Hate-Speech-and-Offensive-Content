@@ -22,3 +22,4 @@ Technologies: Leveraged GPU acceleration, mixed-precision training, and framewor
 Outcome: Achieved 92% accuracy and a Macro F1 score of 0.77.
 
 Co-authored-by: ISHA KUMAR <70069912+Isha-pixel@users.noreply.github.com>
+Co-authored-by: Rishabh Chaturvedi <192364586+rishabh-iith@users.noreply.github.com>
