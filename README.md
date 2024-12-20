@@ -13,7 +13,7 @@ Key Techniques:
 
 3. Training Optimization: Utilized cosine annealing, gradient accumulation, and early stopping to stabilize training.
 
-4. Hyperparameter Tuning: Used Optuna to fine-tune hyperparameters, enhancing validation accuracy and F1 scores.
+4. Hyperparameter Tuning: Optuna was used to fine-tune hyperparameters, enhancing validation accuracy and F1 scores.
 
 5. Class Imbalance Management: Applied oversampling and optimized for macro F1 score (0.77).
 
