@@ -20,3 +20,5 @@ Key Techniques:
 Technologies: Leveraged GPU acceleration, mixed-precision training, and frameworks such as TensorFlow/PyTorch.
 
 Outcome: Achieved 92% accuracy and a Macro F1 score of 0.77.
+
+Co-authored-by: ISHA KUMAR <70069912+Isha-pixel@users.noreply.github.com>
